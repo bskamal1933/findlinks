@@ -1,3 +1,4 @@
 {
-  "base_page_link" : "https://www.linkedin.com"
+  "base_page_link" : ["https://www.mirakistore.com/"],
+  "page_elements" : ["//*[@href]", "//*[button]"]
 }

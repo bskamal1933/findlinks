@@ -1,0 +1,6 @@
+{
+      "default_ignore": ["instagram", "facebook", "youtube", "whatsapp", "static.xx.fbcdn", "scontent", "download",
+                        "wa.me", "mailto:"],
+      "ignore_links":[
+  ]
+}
